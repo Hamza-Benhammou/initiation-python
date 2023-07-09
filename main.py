@@ -18,6 +18,7 @@ age_prochain = age + 1
 # nouvelle variable déclarée permettant de récupérer
 # la valeur de la variable et d'y ajouter 1
 
+
 print("L'an prochain vous aurez " +str(age_prochain) + " ans!")
 
 # integration de la nouvelle variable dans le print pour ajouter 1
